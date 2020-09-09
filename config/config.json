@@ -18,14 +18,14 @@
     "cogs.faq",
     "cogs.rules",
     "cogs.jira",
-    "cogs.gtfobins",
     "cogs.social",
     "cogs.devrole",
     "cogs.staff_vote",
     "cogs.fun",
     "cogs.help",
     "cogs.feedback",
-    "cogs.exploit-db"
+    "cogs.exploit-db",
+    "cogs.docs"
   ],
   "disabled_cogs": [],
   "info": {
